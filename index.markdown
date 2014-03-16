@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: SimpleOperator Blog
 ---
 
-# SimplePage
+# Simple Page
