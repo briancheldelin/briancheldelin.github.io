@@ -2,4 +2,8 @@
 title: SimpleOperator Blog
 ---
 
-# Simple Page
+# It works!
+
+```
+$ testcommand example
+```
